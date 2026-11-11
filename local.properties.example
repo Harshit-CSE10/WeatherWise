@@ -1,0 +1,6 @@
+# Android SDK location
+sdk.dir=/path/to/your/Android/sdk
+
+# OpenWeatherMap API Key (free tier)
+# Get yours at https://openweathermap.org/api
+OPENWEATHER_API_KEY=YOUR_KEY_HERE
